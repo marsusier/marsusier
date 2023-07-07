@@ -3,8 +3,8 @@
 <br>
 <p> <img src="https://komarev.com/ghpvc/?username=marsusier&label=Profile%20views&color=green&style=flat" alt="marsusier" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=marsusier&show_icons=true&hide_border=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api?username=marsusier&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=marsusier&show_icons=true&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=marsusier&layout=compact&theme=tokyonight"/>
 
 I've always been passionate about computers and hacking.\
 So I upload my tools here, often related to computer security.
