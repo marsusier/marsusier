@@ -9,6 +9,9 @@
 - ⌨ Web Dev
 - 🔍 OSINT
 - 🚪 Pentesting
+- 🐸 Frogs
+
+<br>
 
 📧 If you want to contact me, you can do it here :
 - 🐦 Twitter : [marsusier](https://twitter.com/marsusier)
