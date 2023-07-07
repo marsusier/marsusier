@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm mxrch ! 👋
 
-<!--
-**Marsusier/marsusier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p> <img src="https://komarev.com/ghpvc/?username=mxrch&label=Profile%20views&color=blueviolet&style=flat" alt="mxrch" /> <img src="https://shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/mxrch/interval:30_days&color=blueviolet&label=Coding%20stats%20(last 30 days)" /> </p>
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=mxrch&show_icons=true&hide_border=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mxrch&api_domain=wakapi.dev&range=30_days&hide_border=true&theme=radical&custom_title=Coding%20stats%20(last%2030%20days)&layout=compact" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've always been passionate about computers and hacking.\
+So I upload my tools here, often related to computer security.
+
+📧 If you want to contact me, you can do it here :
+- 🐦 Twitter : [mxrchreborn](https://twitter.com/mxrchreborn)
+![](https://hit.yhype.me/github/profile?user_id=17338428)
