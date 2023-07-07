@@ -4,7 +4,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=marsusier&label=Profile%20views&color=green&style=flat" alt="marsusier" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=marsusier&show_icons=true&hide_border=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api?username=marsusier&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=marsusier&api_domain=wakapi.dev&range=30_days&hide_border=true&theme=radical&custom_title=Coding%20stats%20(last%2030%20days)&layout=compact" />
 
 I've always been passionate about computers and hacking.\
 So I upload my tools here, often related to computer security.
