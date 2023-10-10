@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 🐦 Twitter : marsusier
-- 🌱 Discord : marsusier or Marsusier#1116
+- 🐦 Twitter : **marsusier**
+- 🌱 Discord : **marsusier** or Marsusier#1116
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
