@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **OSINT Tool (private)**
 
-- 🌱 I’m currently learning **lua**
+- 🌱 I’m currently learning **lua** and **kotlin**
 
 - ⚡ Fun fact **I am a frog**
 
