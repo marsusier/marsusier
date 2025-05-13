@@ -13,12 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://signal.me/#eu/UqiQkym73hdF78dqlk2vivvbLk-iRIH4u437EM9zarJ32lf8qqRLJ7LQ5VBCQZiw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="signal logo"  />
-  </a>
-  <a href="https://discord.com/users/773587795519864862" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=marsusier&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -26,7 +21,12 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marsusier&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <a href="https://signal.me/#eu/UqiQkym73hdF78dqlk2vivvbLk-iRIH4u437EM9zarJ32lf8qqRLJ7LQ5VBCQZiw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="signal logo"  />
+  </a>
+  <a href="https://discord.com/users/773587795519864862" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
