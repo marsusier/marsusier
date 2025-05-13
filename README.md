@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.imgur.com/L1Mj17F.png"  />
+  <img height="500" src="https://i.imgur.com/L1Mj17F.png"  />
 </div>
 
 ###
