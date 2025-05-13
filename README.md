@@ -10,15 +10,11 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marsusier&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://signal.me/#eu/UqiQkym73hdF78dqlk2vivvbLk-iRIH4u437EM9zarJ32lf8qqRLJ7LQ5VBCQZiw" target="_blank">
@@ -30,8 +26,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
